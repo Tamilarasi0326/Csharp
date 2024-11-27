@@ -44,6 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="1Basic\1PrintName.cs" />
+    <Compile Include="1Basic\2Sum.cs" />
+    <Compile Include="1Basic\3Divide.cs" />
+    <Compile Include="1Basic\4SpecificOperation.cs" />
+    <Compile Include="1Basic\5NumberSwap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
